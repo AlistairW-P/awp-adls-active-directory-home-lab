@@ -1,4 +1,4 @@
-# awp-adls-active-directory-home-lab
+# awp-adds-active-directory-home-lab
 Began 7/06/2026, Completed TBA
 
 ## Overview/Goals
